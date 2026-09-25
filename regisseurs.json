@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "naam": "Christopher Nolan",
+    "beschrijving": "Britse regisseur bekend om complexe en spannende films.",
+    "leeftijd": 55,
+    "actief": true,
+    "geboortedatum": "1970-07-30",
+    "image": "nolan.jpg",
+    "nationaliteit": "Brits",
+    "films": ["Inception"]
+  },
+  {
+    "id": 2,
+    "naam": "Steven Spielberg",
+    "beschrijving": "Amerikaanse regisseur bekend om grote en populaire films.",
+    "leeftijd": 79,
+    "actief": true,
+    "geboortedatum": "1946-12-18",
+    "image": "spielberg.jpg",
+    "nationaliteit": "Amerikaans",
+    "films": ["Jaws"]
+  },
+  {
+    "id": 3,
+    "naam": "James Cameron",
+    "beschrijving": "Canadese regisseur bekend om spectaculaire films.",
+    "leeftijd": 72,
+    "actief": true,
+    "geboortedatum": "1954-08-16",
+    "image": "cameron.jpg",
+    "nationaliteit": "Canadees",
+    "films": ["Titanic", "Avatar"]
+  },
+  {
+    "id": 4,
+    "naam": "Quentin Tarantino",
+    "beschrijving": "Amerikaanse regisseur bekend om zijn unieke filmstijl.",
+    "leeftijd": 63,
+    "actief": true,
+    "geboortedatum": "1963-03-27",
+    "image": "tarantino.jpg",
+    "nationaliteit": "Amerikaans",
+    "films": ["Pulp Fiction"]
+  },
+  {
+    "id": 5,
+    "naam": "Martin Scorsese",
+    "beschrijving": "Amerikaanse regisseur bekend om misdaadfilms en drama.",
+    "leeftijd": 83,
+    "actief": true,
+    "geboortedatum": "1942-11-17",
+    "image": "scorsese.jpg",
+    "nationaliteit": "Amerikaans",
+    "films": ["Goodfellas"]
+  },
+  {
+    "id": 6,
+    "naam": "Peter Jackson",
+    "beschrijving": "Nieuw-Zeelandse regisseur bekend om fantasyfilms.",
+    "leeftijd": 65,
+    "actief": true,
+    "geboortedatum": "1961-10-31",
+    "image": "jackson.jpg",
+    "nationaliteit": "Nieuw-Zeelands",
+    "films": ["Lord of the Rings"]
+  },
+  {
+    "id": 7,
+    "naam": "Tim Burton",
+    "beschrijving": "Amerikaanse regisseur bekend om donkere fantasyfilms.",
+    "leeftijd": 68,
+    "actief": true,
+    "geboortedatum": "1958-08-25",
+    "image": "burton.jpg",
+    "nationaliteit": "Amerikaans",
+    "films": ["Edward Scissorhands"]
+  },
+  {
+    "id": 8,
+    "naam": "Ridley Scott",
+    "beschrijving": "Britse regisseur bekend om sciencefictionfilms.",
+    "leeftijd": 88,
+    "actief": true,
+    "geboortedatum": "1937-11-30",
+    "image": "scott.jpg",
+    "nationaliteit": "Brits",
+    "films": ["Alien"]
+  },
+  {
+    "id": 9,
+    "naam": "Greta Gerwig",
+    "beschrijving": "Amerikaanse regisseur en scenarioschrijver.",
+    "leeftijd": 43,
+    "actief": true,
+    "geboortedatum": "1983-08-04",
+    "image": "gerwig.jpg",
+    "nationaliteit": "Amerikaans",
+    "films": ["Barbie"]
+  },
+  {
+    "id": 10,
+    "naam": "Francis Ford Coppola",
+    "beschrijving": "Amerikaanse regisseur bekend om klassieke films.",
+    "leeftijd": 87,
+    "actief": true,
+    "geboortedatum": "1939-04-07",
+    "image": "coppola.jpg",
+    "nationaliteit": "Amerikaans",
+    "films": ["The Godfather"]
+  }
+]

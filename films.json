@@ -1,0 +1,178 @@
+[
+  {
+    "id": 101,
+    "titel": "Inception",
+    "beschrijving": "Een dief probeert geheimen te stelen uit dromen.",
+    "jaar": 2010,
+    "duur": 148,
+    "beschikbaar": true,
+    "releasedatum": "2010-07-16",
+    "image": "inception.jpg",
+    "genre": "Sciencefiction",
+    "talen": ["Engels", "Frans", "Japans"],
+    "regisseur": {
+      "id": 1,
+      "naam": "Christopher Nolan"
+    }
+  },
+  {
+    "id": 102,
+    "titel": "Jaws",
+    "beschrijving": "Een politiechef probeert een gevaarlijke haai te stoppen.",
+    "jaar": 1975,
+    "duur": 124,
+    "beschikbaar": true,
+    "releasedatum": "1975-06-20",
+    "image": "jaws.jpg",
+    "genre": "Thriller",
+    "talen": ["Engels"],
+    "regisseur": {
+      "id": 2,
+      "naam": "Steven Spielberg"
+    }
+  },
+  {
+    "id": 103,
+    "titel": "Titanic",
+    "beschrijving": "Een romantisch verhaal aan boord van de Titanic.",
+    "jaar": 1997,
+    "duur": 194,
+    "beschikbaar": true,
+    "releasedatum": "1997-12-19",
+    "image": "titanic.jpg",
+    "genre": "Drama",
+    "talen": ["Engels", "Frans"],
+    "regisseur": {
+      "id": 3,
+      "naam": "James Cameron"
+    }
+  },
+  {
+    "id": 104,
+    "titel": "Avatar",
+    "beschrijving": "Een soldaat ontdekt een nieuwe wereld en haar bewoners.",
+    "jaar": 2009,
+    "duur": 162,
+    "beschikbaar": true,
+    "releasedatum": "2009-12-18",
+    "image": "avatar.jpg",
+    "genre": "Sciencefiction",
+    "talen": ["Engels"],
+    "regisseur": {
+      "id": 3,
+      "naam": "James Cameron"
+    }
+  },
+  {
+    "id": 105,
+    "titel": "Pulp Fiction",
+    "beschrijving": "Een misdaadfilm met verschillende verhalen die samenkomen.",
+    "jaar": 1994,
+    "duur": 154,
+    "beschikbaar": true,
+    "releasedatum": "1994-10-14",
+    "image": "pulp-fiction.jpg",
+    "genre": "Misdaad",
+    "talen": ["Engels", "Spaans", "Frans"],
+    "regisseur": {
+      "id": 4,
+      "naam": "Quentin Tarantino"
+    }
+  },
+  {
+    "id": 106,
+    "titel": "Goodfellas",
+    "beschrijving": "Het verhaal van een man die opgroeit binnen de maffia.",
+    "jaar": 1990,
+    "duur": 146,
+    "beschikbaar": true,
+    "releasedatum": "1990-09-19",
+    "image": "goodfellas.jpg",
+    "genre": "Misdaad",
+    "talen": ["Engels", "Italiaans"],
+    "regisseur": {
+      "id": 5,
+      "naam": "Martin Scorsese"
+    }
+  },
+  {
+    "id": 107,
+    "titel": "Lord of the Rings",
+    "beschrijving": "Een hobbit krijgt de opdracht een gevaarlijke ring te vernietigen.",
+    "jaar": 2001,
+    "duur": 178,
+    "beschikbaar": true,
+    "releasedatum": "2001-12-19",
+    "image": "lord-of-the-rings.jpg",
+    "genre": "Fantasy",
+    "talen": ["Engels"],
+    "regisseur": {
+      "id": 6,
+      "naam": "Peter Jackson"
+    }
+  },
+  {
+    "id": 108,
+    "titel": "Edward Scissorhands",
+    "beschrijving": "Een bijzondere man met scharen als handen probeert in de samenleving te leven.",
+    "jaar": 1990,
+    "duur": 105,
+    "beschikbaar": true,
+    "releasedatum": "1990-12-14",
+    "image": "edward-scissorhands.jpg",
+    "genre": "Fantasy",
+    "talen": ["Engels"],
+    "regisseur": {
+      "id": 7,
+      "naam": "Tim Burton"
+    }
+  },
+  {
+    "id": 109,
+    "titel": "Alien",
+    "beschrijving": "Een bemanning wordt geconfronteerd met een gevaarlijk buitenaards wezen.",
+    "jaar": 1979,
+    "duur": 117,
+    "beschikbaar": true,
+    "releasedatum": "1979-06-22",
+    "image": "alien.jpg",
+    "genre": "Sciencefiction",
+    "talen": ["Engels"],
+    "regisseur": {
+      "id": 8,
+      "naam": "Ridley Scott"
+    }
+  },
+  {
+    "id": 110,
+    "titel": "Barbie",
+    "beschrijving": "Barbie verlaat haar perfecte wereld en ontdekt de echte wereld.",
+    "jaar": 2023,
+    "duur": 114,
+    "beschikbaar": true,
+    "releasedatum": "2023-07-21",
+    "image": "barbie.jpg",
+    "genre": "Komedie",
+    "talen": ["Engels", "Spaans"],
+    "regisseur": {
+      "id": 9,
+      "naam": "Greta Gerwig"
+    }
+  },
+  {
+    "id": 111,
+    "titel": "The Godfather",
+    "beschrijving": "Een misdaadfamilie probeert haar macht en invloed te behouden.",
+    "jaar": 1972,
+    "duur": 175,
+    "beschikbaar": true,
+    "releasedatum": "1972-03-24",
+    "image": "godfather.jpg",
+    "genre": "Misdaad",
+    "talen": ["Engels", "Italiaans"],
+    "regisseur": {
+      "id": 10,
+      "naam": "Francis Ford Coppola"
+    }
+  }
+]
