@@ -7,7 +7,7 @@
     "duur": 148,
     "beschikbaar": true,
     "releasedatum": "2010-07-16",
-    "image": "inception.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/inception.avif",
     "genre": "Sciencefiction",
     "talen": ["Engels", "Frans", "Japans"],
     "regisseur": {
@@ -23,7 +23,7 @@
     "duur": 124,
     "beschikbaar": true,
     "releasedatum": "1975-06-20",
-    "image": "jaws.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/jaws.jpeg",
     "genre": "Thriller",
     "talen": ["Engels"],
     "regisseur": {
@@ -39,7 +39,7 @@
     "duur": 194,
     "beschikbaar": true,
     "releasedatum": "1997-12-19",
-    "image": "titanic.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/titanic.avif",
     "genre": "Drama",
     "talen": ["Engels", "Frans"],
     "regisseur": {
@@ -55,7 +55,7 @@
     "duur": 162,
     "beschikbaar": true,
     "releasedatum": "2009-12-18",
-    "image": "avatar.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/avatar.avif",
     "genre": "Sciencefiction",
     "talen": ["Engels"],
     "regisseur": {
