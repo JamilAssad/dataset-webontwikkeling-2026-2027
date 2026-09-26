@@ -71,7 +71,7 @@
     "duur": 154,
     "beschikbaar": true,
     "releasedatum": "1994-10-14",
-    "image": "pulp-fiction.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/pulp-fiction.jpg",
     "genre": "Misdaad",
     "talen": ["Engels", "Spaans", "Frans"],
     "regisseur": {
@@ -87,7 +87,7 @@
     "duur": 146,
     "beschikbaar": true,
     "releasedatum": "1990-09-19",
-    "image": "goodfellas.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/goodfellas4.jpg",
     "genre": "Misdaad",
     "talen": ["Engels", "Italiaans"],
     "regisseur": {
@@ -103,7 +103,7 @@
     "duur": 178,
     "beschikbaar": true,
     "releasedatum": "2001-12-19",
-    "image": "lord-of-the-rings.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/lord-of-the-rings.jpeg",
     "genre": "Fantasy",
     "talen": ["Engels"],
     "regisseur": {
@@ -119,7 +119,7 @@
     "duur": 105,
     "beschikbaar": true,
     "releasedatum": "1990-12-14",
-    "image": "edward-scissorhands.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/edward-scissorhands.webp",
     "genre": "Fantasy",
     "talen": ["Engels"],
     "regisseur": {
@@ -135,7 +135,7 @@
     "duur": 117,
     "beschikbaar": true,
     "releasedatum": "1979-06-22",
-    "image": "alien.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/alien.jpeg",
     "genre": "Sciencefiction",
     "talen": ["Engels"],
     "regisseur": {
@@ -151,7 +151,7 @@
     "duur": 114,
     "beschikbaar": true,
     "releasedatum": "2023-07-21",
-    "image": "barbie.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/barbie.jpg",
     "genre": "Komedie",
     "talen": ["Engels", "Spaans"],
     "regisseur": {
@@ -167,7 +167,7 @@
     "duur": 175,
     "beschikbaar": true,
     "releasedatum": "1972-03-24",
-    "image": "godfather.jpg",
+    "image": "https://raw.githubusercontent.com/JamilAssad/dataset-webontwikkeling-2026-2027/refs/heads/main/images/godfather.jpg",
     "genre": "Misdaad",
     "talen": ["Engels", "Italiaans"],
     "regisseur": {
